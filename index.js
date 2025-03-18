@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
   res.send('Hello')
 })
 
-//ASHISHMAJOR2024
+//KumarMohitMAJOR2024
 // MONGODB CONFIGURATION
 
 
